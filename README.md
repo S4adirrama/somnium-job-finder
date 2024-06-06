@@ -66,7 +66,7 @@ To run the Somnium Job Finder Platform locally, follow these steps:
      ```bash
      cd server && npm start
      ```
-6. **Access the application**: Open your browser and navigate to `http://localhost:8800` to use the Somnium Job Finder Platform.
+6. **Access the application**: Open your browser and navigate to `http://localhost:5173` to use the Somnium Job Finder Platform.
 
 ## Contributing
 
