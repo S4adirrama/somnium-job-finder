@@ -1,6 +1,6 @@
 # Somnium Job Finder Platform
 
-Welcome to the Somnium Job Finder Platform, a comprehensive job search application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This platform is tailored specifically for Somnium, allowing users to search for job listings, view job details, and apply for positions at Somnium.
+Welcome to the Somnium Job Finder Platform, a comprehensive job search application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This platform is tailored specifically for Somnium, allowing users to search for job listings, view job details, and apply for positions at Somnium. This app developed for Kokshetau Digital Hackathon powered ny Aqmola IT Hub and Somnium company!
 
 ## Features
 
@@ -35,7 +35,7 @@ To run the Somnium Job Finder Platform locally, follow these steps:
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/your-username/somnium-job-finder.git
+   git clone https://github.com/S4adirrama/somnium-job-finder.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -74,7 +74,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## Contact
 
-For any inquiries or questions, please contact us at [krishgaur13@gmail.com](mailto:krishgaur13@gmail.com).
+For any inquiries or questions, please contact us at [ramazanedu2@gmail.com](mailto:ramazanedu2@gmail.com).
 
 ## Acknowledgements
 
